@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {Camila Afonso}!
+## 💜 Olá, meu nome é Camila Afonso!
 Desenvolvedora de Software apaixonada por criar soluções escaláveis e eficientes, com uma trajetória sólida no desenvolvimento web. Minha carreira foi construída sobre uma base forte em lógica e arquitetura de sistemas, atuando tanto no Backend quanto no Frontend.
 
 ## My Contribution Graph
