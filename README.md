@@ -1,9 +1,13 @@
 ## Hello, I'm Camila Afonso!! 👋
 This is me...
 
-```html
-<h2> Thanks for watching </h2>
-```
+## My Contribution Graph
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crcami/crcami/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crcami/crcami/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crcami/crcami/output/pacman-contribution-graph.svg">
+</picture>
  
 ##
 <div align="center">
